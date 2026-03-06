@@ -42,7 +42,7 @@ function Header({ sidebarCollapsed, setSidebarCollapsed }: HeaderProps) {
             <span className="logo-text">{t('header.logo', language)}</span>
             <span className="logo-subtitle">{t('header.subtitle', language)}</span>
             <a
-              href="https://github.com/3516634930/Payloader"
+              href="https://virelinye.github.io/Payloader/"
               target="_blank"
               rel="noopener noreferrer"
               className="github-link"
